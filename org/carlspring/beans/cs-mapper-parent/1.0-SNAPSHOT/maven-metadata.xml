@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.carlspring.beans</groupId>
+  <artifactId>cs-mapper-parent</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170607.060616</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170607060616</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20170607.060616-1</value>
+        <updated>20170607060616</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
